@@ -1,0 +1,2 @@
+Common Application Properties in application.properties under resources
+https://docs.spring.io/spring-boot/docs/current/reference/html/appendix-application-properties.htmlies.html
